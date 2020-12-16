@@ -1,0 +1,209 @@
+1. Ok
+
+2. Correct whatsApp spelling and give correct number and email address
+
+3. Give rectangle simlar used in software.travel/ for contact us.
+
+4. In Tkies, when scroll down page, pricing and feature disappear. Similar menu bar style give here also
+
+5. can you create transparent menu bar during scrolldown as in http://www.dcsplus.net/
+
+6. AFter slider give background image 1 - With same GDPR font and color, write #1 Reliable Software for your Travel Business. After this, write below Tkies is a Travel Technology Company used by many Travel Companies in over 20+ countries. We work directly with the majority of Airlines/ Hoteliers/Excursion/Cruise suppliers for the best information available. We have a weekly content update for our customers, telling you about new releases that have been added or updated on your platform, new inventories coming on board, resources and future integrations coming along. 
+
+7. Instead of #1 Hiring software ... write Tailor-made Solution for your Travel Business
+
+Tkies is a Global Travel Technology Provider and also is an Award Winning company which offering Worldwide solutions for Travel Agencies, Tour Operators and TMCs. Over 200+ suppliers from all around the world travel companies uses Booking System via the latest XML technology, White-label Solution and B2B login access. The Development Center of Tkies is in India and our main Sales and Support departments are based in USA, UK, Middle East, Philippines and Nigeria. Along with de-duplicated properties across the world in real-time you will have access to our premium Air Ticket reservation System, Hotel Reservation System, Airport transportation and Sightseeing Tours.
+
+Our Booking platform is connected around the world like US, Europe & the UK; Middle East, Australia, Philippines and Africa, where we offer a Tailor-made solution for contracting through Hoteliers and work with local DMCs.
+
+8. Instead of Be Smarter.. write Reliable Technology Partner
+
+Tkies Booking system is a unique fully cloud-based managed platform for travel business allowing for aggregation of all your GDS and direct connect supplier with powerful back-office part and front-end part. Powerful back-office covers mid-office, CRM, project management and staff management. If our products are not exactly what you're searching for and you want to develop your own solution we could share with you our developers with solid experience in travel. Our booking engine is available on all major GDS/CRS including but not limited to Amadeus, Travelport and Sabre and direct connects. Our Booking Engine combines all your existing processes, regardless of where or how a booking occurs without changing your existing setup. You no longer need to train your agents across multiple platforms or hire specialized agent as all your agents. You can easily hire and train new agents to use the graphical platform which provides rich content and connectivity to all your suppliers.
+
+9. GP Travel HUB is a solution for integration with various bedbanks, flight consolidators, GDS's and other travel products suppliers.
+The solution works as follows:
+We offer a technical part of integration. Ex: by integrating only one our accommodation API, you'll get access to many bedbanks which will save your time and costs for development resources. But to activate any connector you should have direct contract with the supplier, so you'll have a chance to negotiate with them to get the best offers.
+
+10. Replace Cut time to hire... with Allowing easy integration of Aggregators and Suppliers
+
+Our Travel API solution for integration with various bedbanks, flight consolidators, GDS's and other travel products suppliers allow easy and quick access into your booking platform. To activate any connector you should have direct contract with the supplier, so you'll have a chance to negotiate with them to get the best offers. This helps utilize/maximize your time and cost for integration as well as allow for complete control over your products.
+
+11. Travel Technology
+
+B2C B2B B2B2C API 5.integration 6.XMLin&XMLout 7.CMS for Holiday Package/Umrah Management 8.Extranet Cruise CRS
+
+
+
+Tkies Reservation System links with your website and your reservation system for Travel management companies, airlines, hotels, car rental, Online Travel Agencies and Cruise. The Booking Engine combines all your existing processes, regardless of where or how a booking occurs without changing your existing setup. You no longer need to train your agents across multiple platforms or hire specialized agent as all your agents. You can easily hire and train your staff to use the graphical platform which provides rich content and connectivity to all your suppliers. We can integrate with popular Meta Search engines for traffic generation and bookings. Complete web-based management panel for rules management accessible from anywhere. Access content from any country in any currency and offer multi-lingual support to your customers. Fully responsive IBE and SEO friendly to support easy integration. Interface with Google analytics and other web tracking tools to track your website performance.
+
+
+B2B
+
+Allows travel agencies, retailers, online travel agents (OTAs) etc. to have an online presence. Provide full content like Air, Car Hotel, Insurance, NDC etc. for your agents. Complete web-based management panel for rules management accessible from anywhere. Commission plan for GSA companies related to their sales volume. Allow to Provide Unlimited White Label Platform for B2B & B2C. Multiple payment options for agent | Credit limit/Floating Deposit, Cash, Credit card. We have a very fast response time and we will be able to support up to 3,000,000 searches per hour with our AWS cloud infrastructure with load balancing data mirroring that we have set up. Different Mark Up plans for Different sub agencies. Create unlimited users, manage the roles, rights and passwords. Ability to manage mark up for each products and services
+
+
+B2B2C
+
+Dealing with your B2B partners is now easier with the help of white label that allow you to add and sell your own products, Manage your agents, create unlimited sub agencies, manage mark up plans, commissions – everything can be managed through an online portal created by white label, which is indeed going to be your own website. There are 5 major components you would need for this project, which are website design, booking engine, back-office, API integration and payment gateway integration.Dealing with your B2B partners is now easier with the help of white label that allow you to add and sell your own products, Manage your agents, create unlimited sub agencies, manage mark up plans, commissions – everything can be managed through an online portal created by white label, which is indeed going to be your own website. Fully customization admin panel and contents. Full CMS admin panel & Back-end Panel. Agent's own identity on the booking engine (banner, logo on voucher). Delivery Less than a Week.
+
+API integration
+
+To activate any connector you should have direct contract with the supplier, so you'll have a chance to negotiate with them to get the best offers. The business  contract will be between you and the API providers and we shall provide your technnolgy platform and integration with APIs you  choose. Connectivity is key to any business, it's all about partnering with the right people. Industry references such as major aggregators or consolidators, Airlines, Hoteliers, Tour Operators and many more have joined our Network and are reaping the benefits of our massive connectivity Network. We will integrate any supplier you request as long as you commit to buy from them. Our solution is completely scalable, fault tolerant and 100% optimised for performance.
+
+ 
+XMLin&XMLout
+
+
+This is focused on Integrations and connectivity only. In case you want to become a seller , we work closely with them to make sure your integration works efficiently on your partner platform. You can also connect to Ctrip, HaoQiao, Hotelbeds and Agoda- if you would like to sell your product to these clients, you have to know special terms & conditions apply. As a buyer you will be connected with your partners to feed their inventories into your platform. Its user-friendly inventory bank for your own contracts. Yes, connectivity is key to any business,  through one integration you can get access to a standardised feed of all of your suppliers. Once connected, adding a supplier is a matter of getting a contract with them - there is no more need to create and maintain an integration. 
+
+
+CMS for Holiday Package/Umrah Management
+
+Its an Own Inventory Management of all the Pilgrim Packages and Fixed Departures with Easy documentations, VISA requirements for all the Pilgrim tourist. The inventories and Packages can be uploaded from the backend for all the Pilgrim Packages and Fixed Departures. We offer Holiday CRS to the tour operators and travel management companies helping them in creating and managing inventory, group travel and also to manage customer & travel agents. Easy Automated Payment EMI options and notifications is an additional advantage, the system is SEO friendly pages and Advertisements /Promotions and Deals.
+
+
+Extranet
+
+Free Hotel Registration or Add your Hotel. Tkies hotel extranet is an online application program that supports all travel agents in managing their inventory. our hotel extranet allows travel agents to upload their contracted hotels or suppliers by giving them access to complete inventory online booking system through which the contractors can easily admit their hotel descriptions availabilities, rates, special offers, restrictions, promote room availability, change rates, and add pictures throughout OTA platform. The customer can easily get detailed information of each and every hotel on the system by helping them to choose the best hotel as per their needs and requirements.
+
+Cruise CRS
+
+Our cruise booking system includes huge amount of cruise line, cruise ship, and cabin descriptions and it can easily be directed to media files and rich content such as cabin photos, ship images and deck plans to support in the shipping process. We mainly designed cruise software to support every need of cruise industry. Tkies ensures to provide complete set of solutions which empowers all over cruise companies. Cruise booking software lets travel agents and end users search and book the cruise deals online. It can be connected with comprehensive inventory of cruise suppliers and allows browsers to check online cruise availability, examine deck plans, cabin inventories and finally user friendly online booking.
+
+ 
+12. Pricing for your dream project
+
+Change background banner and font according to image 2
+Pay Now     Pay Later     Pay & Use      Enterprise
+
+1111111.Pay Now
+Tailor-made solution
+Website Design
+One Time Booking Engine Fee
+Website Design
+AMC -upfront
+Hosting- monthly billing
+Back-Office
+CRM
+Staff Management
+Project Management
+3 API integration of your choice
+1 Payment Gateway
+
+
+22222222.Pay Later
+
+Tailor-made solution
+Website Design
+Booking Engine - no fee
+AMC upfront
+Hosting - monthly billing
+Fee per booking
+Monthly billig for all public fares
+Monthly billing from all private fares (own contracted inventories)
+Hosting Charges = Monthly billing in terms of usage 
+Back-Office
+CRM
+Staff Management
+Project Management
+3 API integration of your choice
+1 Payment Gateway of your choice
+
+
+3333333.Enterprise
+
+Tailor-made solution
+
+Source Code - one time fee
+Website Design
+Booking Engine 
+Hosting - your choice
+No monthly billing
+Back-Office
+CRM
+Staff Management
+Project Management
+3 API integration of your choice
+1 Payment Gateway of your choice
+
+
+13. Travel Technology Solutions
+
+1.Travel CRM   2.Accounting System  3.MultiLanguage  4.Dynamic Packaging     5.IP based Currency Converter     6.Mapping
+
+
+Travel CRM
+
+Tkies Travel CRM helps your travel business to store and organize customer database. The Travel CRM data can be used for market your services effectively and boost your sales. Tkies Travel CRM software helps in sending custom itineraries directly from the CRM, improves efficiency, converting queries to leads, make your team of travel agents more productive and saves a lot of time and resources. Our CRM features includes Enquiry Management, One Window Enquiries of all Offices, Create and Send Itineraries from the CRM, Automate Sales Tasks and Sell Faster From Enquiries to Bookings. 
+
+
+Accounting System
+
+Our streamlined process for travel agency and anaylysed graphic data is suitable for small and large travel agencies. Features maily includes Autoinvoicing facility, Budget tracking, Statement of accounts, multi user access etc. It reduces time consuming and helps to focus more on important tasks and execute their strategies.
+
+Multi Language
+
+As the tourism is mostly arising from the countries and for the travellers which do not communicate in English we integrrate relevant material in the native language of your global clients which makes the services easier to use and much more appealing. Multilanguage site will be your automatic marketing and selling machines in the languages you do not talk or communicate in. It has a positive impact on your client service.
+
+Dynamic Packaging
+
+Allows combination of packages included Airlines, Hotels, Airport Transfer, Sightseeing. A traveller save time and money of booking multiple services in one click. Dynamic Package allows travellers to create their own packages in form of pick and select for their ideal holiday. Dynamic Package or customized holiday package also helps travel agents or tour operators to build package as per customer requirements.
+
+IP based Currency Converter
+
+Multi currency allows your travellers to purchase products in different currencies. Invoices can also be generated in different foreign currencies. It has become necessary for all OTA to sell services at a global market. With use of multi currency OTA can operate multi currency without contacting third party channels for each and every currency.
+
+Mapping
+
+Manual mapping can be extremely time consuming, hence most OTA chooses AI powered mapping tools to deduplicate hotels and rooms. We work with GIATA, Gimmonix, DataBindR, RoomMappR to provide the best offerings possible by mapping data from numerous resources.
+
+14. Product
+
+///////////wbe.travel images
+
+First slide: msg u later
+
+Tkies is one of the leading mobile app development companies . our blend of strategy, beautiful designs and hardcore engineering can attract your users and the customers. Our company works on Android and iOS platforms and have created 50+ mobile applications till now. We believe in bring electrifying change for the better world as far as mobile app development is concerned. We maintain transparency in their project and use of deep technology to make transformation a reality.
+
+
+Second slide:
+
+Mobile App solution
+
+Need some inspiration for your next web design project? We offer a range of customisable website themes which showcase all the important aspects of a travel website – the ones which will encourage travellers to bite the bullet and make a booking, like special offers, popular destinations and any kind of booking system. We’re dedicated to travel, tourism and technology, and we apply unique expertise and fresh insights, to take your customers on an effortlessly rewarding digital journey – one that begins on screen and takes them anywhere in the world.Our focus is on the design of high-quality, custom-built travel websites that incorporate the latest web technologies and best practices. Contact us to discuss your next travel project. Our belief is that exceptional digital experiences are born from emotional intelligence which is the glue that binds creativity, technical innovation and user experience.
+
+
+16. Give API and Integration banner similar to tkies.com
+
+17. Team
+
+Albert DK https://www.ibsplc.com/about/leadership-and-governance
+Independend Director
+
+Albert is a veteran professional who has made a mark in the global travel industry with over 19 years of diverse experience for different verticals – Tour Operators and Travel Companies. Albert brings on board a multitude of professional competencies and strong partnership from Europe & UK region to supplement the business growth objectives of Tkies.
+
+He has contributed dominant presence in the Tourism industry and focused on EU clients to stay ahead by facilitating new partnerships and technology ideas to bring especially in Bedbanks and Activities sector.
+
+Email
+
+Lateef Olaore  https://www.ibsplc.com/about/leadership-and-governance
+Independent Director
+
+Lateef is a thought leader and a specialist in aviation business. He has been leading the product strategy of Tkies online booking system and new partnerships across Africa. Lateef uses his comprehensive understanding of the travel industry in defining the vision and has been instrumental in shaping the direction of Tkies Software Services.
+
+Email: lateef@tkiescorp.com  https://www.zillious.com/nav/about
+
+Malik Basheer
+
+Head of Infrastructure
+Having 12 years of Travel Industry experience in handling customers across the globe. He has expertise in Global Distribution System, Technical issues, Team handling and E-commerce.
+
+His team is responsible for handling customer facing production environment which includes handling IT infrastructure, production server & application monitoring and 24*7 availability.
+
+Email: https://www.zillious.com/nav/about
+
+
+18. Give footer same as from tkies.com
+
+
+

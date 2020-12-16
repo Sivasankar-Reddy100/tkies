@@ -1,0 +1,135 @@
+1. Ok
+
+2. Correct whatsApp spelling and give correct number and email address 
+
+3. Give rectangle simlar used in software.travel/ for contact us. 
+
+4. In Tkies, when scroll down page, pricing and feature disappear. Similar menu bar style give here also....sticky
+
+5. can you create transparent menu bar during scrolldown as in http://www.dcsplus.net/
+
+6. AFter slider give background image 1 - With same GDPR font and color, write #1 Reliable Software for your Travel Business. After this, write below Tkies is a Travel Technology Company used by many Travel Companies in over 20+ countries. We work directly with the majority of Airlines/ Hoteliers/Excursion/Cruise suppliers for the best information available. We have a weekly content update for our customers, telling you about new releases that have been added or updated on your platform, new inventories coming on board, resources and future integrations coming along. 
+
+7. Instead of #1 Hiring software ... write Tailor-made Solution for your Travel Business
+
+Tkies is a Global Travel Technology Provider and also is an Award Winning company which offering Worldwide solutions for Travel Agencies, Tour Operators and TMCs. Over 200+ suppliers from all around the world travel companies uses Booking System via the latest XML technology, White-label Solution and B2B login access. The Development Center of Tkies is in India and our main Sales and Support departments are based in USA, UK, Middle East, Philippines and Nigeria. Along with de-duplicated properties across the world in real-time you will have access to our premium Air Ticket reservation System, Hotel Reservation System, Airport transportation and Sightseeing Tours.
+
+Our Booking platform is connected around the world like US, Europe & the UK; Middle East, Australia, Philippines and Africa, where we offer a Tailor-made solution for contracting through Hoteliers and work with local DMCs.
+
+8. Instead of Be Smarter.. write Reliable Technology Partner
+
+Tkies Booking system is a unique fully cloud-based managed platform for travel business allowing for aggregation of all your GDS and direct connect supplier with powerful back-office part and front-end part. Powerful back-office covers mid-office, CRM, project management and staff management. If our products are not exactly what you're searching for and you want to develop your own solution we could share with you our developers with solid experience in travel. Our booking engine is available on all major GDS/CRS including but not limited to Amadeus, Travelport and Sabre and direct connects. Our Booking Engine combines all your existing processes, regardless of where or how a booking occurs without changing your existing setup. You no longer need to train your agents across multiple platforms or hire specialized agent as all your agents. You can easily hire and train new agents to use the graphical platform which provides rich content and connectivity to all your suppliers.
+
+9.Tkies API is a solution for integration with various bedbanks, flight consolidators, GDS's and other travel products suppliers.
+The solution works as follows:
+We offer a technical part of integration. Ex: by integrating only one our accommodation API, you'll get access to many bedbanks which will save your time and costs for development resources. But to activate any connector you should have direct contract with the supplier, so you'll have a chance to negotiate with them to get the best offers    [..............ignore]
+
+10. Replace Cut time to hire... with Allowing easy integration of Aggregators and Suppliers/
+
+Our Travel API solution for integration with various bedbanks, flight consolidators, GDS's and other travel products suppliers allow easy and quick access into your booking platform. To activate any connector you should have direct contract with the supplier, so you'll have a chance to negotiate with them to get the best offers. This helps utilize/maximize your time and cost for integration as well as allow for complete control over your products.
+
+11. Travel Technology
+Get B2C B2B B2B2C API integration XMLin&XMLout CMS for Holiday Package/Umrah Management Extranet Cruise CRS
+
+
+12. Pricing for your dream project
+
+Change background banner and fond according to image 2
+Pay Now     Pay Later     Pay & Use      Enterprise
+
+Pay Now
+Tailor-made solution
+Website Design
+One Time Booking Engine Fee
+Website Design
+AMC -upfront
+Hosting- monthly billing
+Back-Office
+CRM
+Staff Management
+Project Management
+3 API integration of your choice
+1 Payment Gateway
+
+
+Pay Later
+
+Tailor-made solution
+Website Design
+Booking Engine - no fee
+AMC upfront
+Hosting - monthly billing
+AMC - monthly billing
+Monthly billig for all public fares
+Monthly billing from all private fares (own contracted inventories).
+Hosting Charges = Monthly billing in terms of usage. 
+Back-Office
+CRM
+Staff Management
+Project Management
+3 API integration of your choice
+1 Payment Gateway of your choice
+
+
+Enterprise
+
+Tailor-made solution
+
+Source Code - one time fee
+Website Design
+Booking Engine 
+Hosting - your choice
+No monthly billing
+Back-Office
+CRM
+Staff Management
+Project Management
+3 API integration of your choice
+1 Payment Gateway of your choice
+
+
+13. Travel Technology Solutions
+
+Travel CRM   Staff Management  Project Management  Dynamic Packaging  IP based Currency Converter  Mapping
+
+
+14. Product
+
+Get a travel agency website
+
+
+15. Mobile App solution
+
+16. Give API and Integration banner similar to tkies.com
+
+17. Team
+
+18. Give footer same as from tkies.com
+
+instead of social icons give Email:
+
+
+
+Website Design
+Booking Engine Platform
+Back-Office
+01 API Integration of  your choice [can be out of the above list]
+Payment Gateway Integration
+
+Support fee USD 25 per month for each service [to be paid quarterly] OR USD 0.50 per transaction whichever is higher.
+
+Support includes :
+
+Hosting
+Technical maintenance
+Technical support.
+Implementing API maintenance updates
+
+
+Additional Flight API USD 1800.00 per  API
+Additional Hotel API USD 1000 per API
+Additional Tours API USD 1500 per API
+ 
+
+Custom Development fee : USD 20 per hour.
+
